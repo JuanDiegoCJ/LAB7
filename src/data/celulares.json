@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Samsung Galaxy S24 Ultra",
+        "slug": "Samsung",
+        "description": "1.399 €",
+        "picture": "https://cdn.andro4all.com/andro4all/2024/02/galaxy-s24-ultra-trasera-portada.jpg"
+    },
+    {
+        "name": "Xiaomi 14",
+        "slug": "Redmi",
+        "description": "1.099 €",
+        "picture": "https://cdn.andro4all.com/andro4all/2024/02/xiaomi-14-de-color-negro.1709066655.3495.jpg"
+    },
+    {
+        "name": "Iphone 15 Pro Max",
+        "slug": "Apple",
+        "description": "1.569 €",
+        "picture": "https://cdn.andro4all.com/andro4all/2024/01/iphone-15-pro-max-azul.jpg"
+    },
+    {
+        "name": "Google Pixel 8 Pro",
+        "slug": "Google",
+        "description": "799 €",
+        "picture": "https://cdn.andro4all.com/andro4all/2023/10/google-pixel-8-pro-de-color-azul.1697013398.2361.jpg"
+    },
+    {
+        "name": "Motorola Edge 40 Pro",
+        "slug": "Motorola",
+        "description": "768 €",
+        "picture": "https://cdn.andro4all.com/andro4all/2023/05/pantalla-del-motorola-edge-40-pro-2.jpg"
+    }
+]
