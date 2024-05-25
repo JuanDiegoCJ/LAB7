@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 const Header = () => {
     return <header>
-  <nav class="navbar navbar-expand-lg navbar-light" style={{backgroundColor: 'grey', paddingLeft: '50px'}}>
+  <nav class="navbar navbar-expand-lg navbar-light" style={{backgroundColor: 'rgb(25, 35, 55)', paddingLeft: '50px'}}>
   <a className="display-3" class="navbar-brand text-white font-weight-bold" href="#">TECH-PHONE</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>

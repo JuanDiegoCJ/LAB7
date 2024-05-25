@@ -1,5 +1,7 @@
+import './style.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 const Aside = () => {
-    return <aside>
+    return <aside className="c1">
         <form>
   <div class="mb-3">
   <br/>

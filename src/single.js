@@ -1,3 +1,5 @@
+import './style.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Celulares from './data/celulares.json'
 
 const Single = () => {
@@ -6,10 +8,10 @@ const Single = () => {
     const celular = Celulares.find(it => currentRoute.includes(it.slug))
 
     return (<>
-        <h1>{celular.name}</h1>
+        <h1 className='AsideStyle'>{celular.name}</h1>
         <hr></hr>
         <img src={celular.picture}></img>
-        <p>{celular.description}</p>
+        <h3 className='AsideStyle'>{celular.description}</h3>
     </>);
 }
 
